@@ -26,6 +26,6 @@ Stay tuned! Planned features include:
 
 Thank you for visiting! We’re excited to share our progress with you soon.
 
-[![Presentation Thumbnail](https://www.canva.com/design/DAGUO3H1zyQ/UfBzbrqw-kqMGPQZ1jNavw/view)
+[View Presentation](https://www.canva.com/design/DAGUO3H1zyQ/UfBzbrqw-kqMGPQZ1jNavw/view)
 
 
