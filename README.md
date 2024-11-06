@@ -25,3 +25,5 @@ Stay tuned! Planned features include:
 ---
 
 Thank you for visiting! We’re excited to share our progress with you soon.
+<!-- Example: embed.html -->
+<iframe src="[https://your-canva-link](https://www.canva.com/design/DAGUO3H1zyQ/Dpmcw6SRM3pJRcYo4qkGGg/edit?utm_content=DAGUO3H1zyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="100%" height="500px" frameborder="0" allowfullscreen></iframe>
