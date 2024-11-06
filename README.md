@@ -26,4 +26,11 @@ Stay tuned! Planned features include:
 
 Thank you for visiting! We’re excited to share our progress with you soon.
 <!-- Example: embed.html -->
-<iframe src="[https://your-canva-link](https://www.canva.com/design/DAGUO3H1zyQ/Dpmcw6SRM3pJRcYo4qkGGg/edit?utm_content=DAGUO3H1zyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="100%" height="500px" frameborder="0" allowfullscreen></iframe>
+<iframe src=<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGUO3H1zyQ/UfBzbrqw-kqMGPQZ1jNavw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGUO3H1zyQ&#x2F;UfBzbrqw-kqMGPQZ1jNavw&#x2F;view?utm_content=DAGUO3H1zyQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Olist Porject</a> de Carlos Eduardo Mizumoto width="100%" height="500px" frameborder="0" allowfullscreen></iframe>
