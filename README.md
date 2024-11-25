@@ -12,13 +12,12 @@ This project aims to analyze and identify key opportunities to improve Olist, le
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="80"title="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="80"  title="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="80"  title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" width="80" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Seaborn_logo.svg" alt="Seaborn Logo" width="80" title="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="80"  title="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Statistics_icon.svg" alt="Statistics Icon" width="80"  title="Statistics"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" height="80" title="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo"  height="80" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo"  height="80" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo"  height="80" title="Pandas"/>
+  <img src="https://pyfi.com/cdn/shop/articles/seaborn.webp?v=1711983007&width=1100" alt="Seaborn Logo"  height="80" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo"  height="80" title="Scikit-learn"/>
 </p>
 
 ---
