@@ -1,29 +1,23 @@
-# 🚧 Olist_Analysis - Under Construction 🚧
+# Welcome to **Olist_Analysis** 🌟
 
-Welcome to **Olist_Analysis**! This project is currently in development, and new features, functionality, and documentation are on the way.
+<p align="center">
+  <img src="https://github.com/ce-mizu/Olist_Analysis/blob/main/images/Presentation%20-%20Olist%20Porject_Page_01.jpg" alt="Project Cover" width="800"/>
+</p>
 
-## Project Overview
+## 🚀 Introduction
 
-**Olist_Analysis** aims to Demonstrate the analysis step-by-step and applied knowledge in SQL, python, pandas, etc.
+**Olist_Analysis**! This project aims to improve Olist analysing the main opportunity.
 
-## Current Status
+## 🛠️ Tools
 
-This project is still in the **early development stages**. Key milestones include:
-- [x] Planning and Requirements Gathering
-- [X] Initial Data base overview
-- [X] Build the analysis train of thought
-- [ ] Prepare SQL data views
-- [ ] Report Creation
-- [ ] Documentation
-
-## Upcoming Features
-
-Stay tuned! Planned features include:
-- **Feature 1**: Application of prediction models
-- **Feature 2**: Application of Machine Learning
-
+- **SQL**
+- **Python**
+- **numpy**
+- **Pandas**
+- **seaborn**
+- **SKLean**
+- **Statistc**
+- **SKLean**
 ---
 
-Thank you for visiting! We’re excited to share our progress with you soon.
-
-
+Thank you for visiting! We’re excited to share my project with you.
