@@ -11,26 +11,15 @@ This project aims to analyze and identify key opportunities to improve Olist, le
 
 ## 🛠️ Tools & Technologies
 
-- **SQL**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100"/>
-
-- **Python**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/>
-
-- **NumPy**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="100"/>
-
-- **Pandas**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" width="100"/>
-
-- **Seaborn**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Seaborn_logo.svg" alt="Seaborn Logo" width="100"/>
-
-- **Scikit-learn**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="100"/>
-
-- **Statistics**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Statistics_icon.svg" alt="Statistics Icon" width="100"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100" title="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="100" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas Logo" width="100" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Seaborn_logo.svg" alt="Seaborn Logo" width="100" title="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="100" title="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Statistics_icon.svg" alt="Statistics Icon" width="100" title="Statistics"/>
+</p>
 
 ---
 
